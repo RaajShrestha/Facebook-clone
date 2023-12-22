@@ -7,6 +7,7 @@
 
 .navbar nav{
     width: 100%;
+    min-width: 400px;
     padding: 10px 20px;
     background-color: #FFFFFF;
     display: flex;
